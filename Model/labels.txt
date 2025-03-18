@@ -1,0 +1,5 @@
+0 Hello
+1 Please
+2 Thank You
+3 Victory
+4 Yes
