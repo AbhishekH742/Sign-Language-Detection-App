@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS  # Import CORS
 import cv2
 import numpy as np
-from cvzone.HandTrackingModule import HandDetector
+from cvzone.HandTrackingModule import HandDetector 
 from cvzone.ClassificationModule import Classifier
 import math
 import base64
