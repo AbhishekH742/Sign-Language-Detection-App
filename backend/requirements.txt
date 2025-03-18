@@ -1,0 +1,6 @@
+flask==2.3.3
+tensorflow==2.10.0
+opencv-python==4.8.1.78
+numpy==1.26.2
+cvzone==1.6.1   
+mediapipe==0.9.1.0
